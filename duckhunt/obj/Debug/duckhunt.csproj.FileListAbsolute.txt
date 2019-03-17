@@ -1,0 +1,52 @@
+D:\Programs\visual studio projects\duckhunt\duckhunt\bin\Debug\duckhunt.exe.config
+D:\Programs\visual studio projects\duckhunt\duckhunt\bin\Debug\duckhunt.exe
+D:\Programs\visual studio projects\duckhunt\duckhunt\bin\Debug\duckhunt.pdb
+D:\Programs\visual studio projects\duckhunt\duckhunt\obj\Debug\duckhunt.csprojAssemblyReference.cache
+D:\Programs\visual studio projects\duckhunt\duckhunt\obj\Debug\duckhunt.Form1.resources
+D:\Programs\visual studio projects\duckhunt\duckhunt\obj\Debug\duckhunt.Properties.Resources.resources
+D:\Programs\visual studio projects\duckhunt\duckhunt\obj\Debug\duckhunt.csproj.GenerateResource.cache
+D:\Programs\visual studio projects\duckhunt\duckhunt\obj\Debug\duckhunt.csproj.CoreCompileInputs.cache
+D:\Programs\visual studio projects\duckhunt\duckhunt\obj\Debug\duckhunt.exe
+D:\Programs\visual studio projects\duckhunt\duckhunt\obj\Debug\duckhunt.pdb
+D:\Programs\visual studio projects\duckhunt\duckhunt\obj\Debug\duckhunt.FormGameA.resources
+D:\Programs\visual studio projects\duckhunt\duckhunt\obj\Debug\duckhunt.FormScoreBoard.resources
+D:\Programs\visual studio projects\duckhunt\duckhunt\obj\Debug\duckhunt.Highscore.resources
+D:\C#\duckhunt\duckhunt\bin\Debug\duckhunt.exe.config
+D:\C#\duckhunt\duckhunt\bin\Debug\duckhunt.exe
+D:\C#\duckhunt\duckhunt\bin\Debug\duckhunt.pdb
+D:\C#\duckhunt\duckhunt\obj\Debug\duckhunt.csprojAssemblyReference.cache
+D:\C#\duckhunt\duckhunt\obj\Debug\duckhunt.Form1.resources
+D:\C#\duckhunt\duckhunt\obj\Debug\duckhunt.FormGameA.resources
+D:\C#\duckhunt\duckhunt\obj\Debug\duckhunt.FormScoreBoard.resources
+D:\C#\duckhunt\duckhunt\obj\Debug\duckhunt.Highscore.resources
+D:\C#\duckhunt\duckhunt\obj\Debug\duckhunt.Properties.Resources.resources
+D:\C#\duckhunt\duckhunt\obj\Debug\duckhunt.csproj.GenerateResource.cache
+D:\C#\duckhunt\duckhunt\obj\Debug\duckhunt.csproj.CoreCompileInputs.cache
+D:\C#\duckhunt\duckhunt\obj\Debug\duckhunt.exe
+D:\C#\duckhunt\duckhunt\obj\Debug\duckhunt.pdb
+C:\Users\Bojidar\Desktop\duckhunt\duckhunt\bin\Debug\duckhunt.exe.config
+C:\Users\Bojidar\Desktop\duckhunt\duckhunt\bin\Debug\duckhunt.exe
+C:\Users\Bojidar\Desktop\duckhunt\duckhunt\bin\Debug\duckhunt.pdb
+C:\Users\Bojidar\Desktop\duckhunt\duckhunt\obj\Debug\duckhunt.csprojAssemblyReference.cache
+C:\Users\Bojidar\Desktop\duckhunt\duckhunt\obj\Debug\duckhunt.Form1.resources
+C:\Users\Bojidar\Desktop\duckhunt\duckhunt\obj\Debug\duckhunt.FormGameA.resources
+C:\Users\Bojidar\Desktop\duckhunt\duckhunt\obj\Debug\duckhunt.FormScoreBoard.resources
+C:\Users\Bojidar\Desktop\duckhunt\duckhunt\obj\Debug\duckhunt.Highscore.resources
+C:\Users\Bojidar\Desktop\duckhunt\duckhunt\obj\Debug\duckhunt.Properties.Resources.resources
+C:\Users\Bojidar\Desktop\duckhunt\duckhunt\obj\Debug\duckhunt.csproj.GenerateResource.cache
+C:\Users\Bojidar\Desktop\duckhunt\duckhunt\obj\Debug\duckhunt.csproj.CoreCompileInputs.cache
+C:\Users\Bojidar\Desktop\duckhunt\duckhunt\obj\Debug\duckhunt.exe
+C:\Users\Bojidar\Desktop\duckhunt\duckhunt\obj\Debug\duckhunt.pdb
+D:\Programs\visual studio projects\duckhunt 5\duckhunt\bin\Debug\duckhunt.exe.config
+D:\Programs\visual studio projects\duckhunt 5\duckhunt\bin\Debug\duckhunt.exe
+D:\Programs\visual studio projects\duckhunt 5\duckhunt\bin\Debug\duckhunt.pdb
+D:\Programs\visual studio projects\duckhunt 5\duckhunt\obj\Debug\duckhunt.csprojAssemblyReference.cache
+D:\Programs\visual studio projects\duckhunt 5\duckhunt\obj\Debug\duckhunt.Form1.resources
+D:\Programs\visual studio projects\duckhunt 5\duckhunt\obj\Debug\duckhunt.FormGameA.resources
+D:\Programs\visual studio projects\duckhunt 5\duckhunt\obj\Debug\duckhunt.FormScoreBoard.resources
+D:\Programs\visual studio projects\duckhunt 5\duckhunt\obj\Debug\duckhunt.Highscore.resources
+D:\Programs\visual studio projects\duckhunt 5\duckhunt\obj\Debug\duckhunt.Properties.Resources.resources
+D:\Programs\visual studio projects\duckhunt 5\duckhunt\obj\Debug\duckhunt.csproj.GenerateResource.cache
+D:\Programs\visual studio projects\duckhunt 5\duckhunt\obj\Debug\duckhunt.csproj.CoreCompileInputs.cache
+D:\Programs\visual studio projects\duckhunt 5\duckhunt\obj\Debug\duckhunt.exe
+D:\Programs\visual studio projects\duckhunt 5\duckhunt\obj\Debug\duckhunt.pdb
